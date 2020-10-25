@@ -1,0 +1,25 @@
+.likes-container {
+    float: right;
+}
+
+.simple-like-btn {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    text-decoration: none;
+    color: #666666 !important;
+    margin: 0 0 32px;
+    background-image: url("../images/thumbs-up.svg");
+    background-size: 48px 48px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    height: 48px;
+    max-width: 380px;
+    padding-left: 64px;
+}
+
+/*
+.simple-like-btn:hover {
+
+}
+  
